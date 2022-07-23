@@ -1,5 +1,5 @@
 # Arch Linux packages
-[Notebook Fan Control](https://github.com/nbfc-linux/nbfc-linux) <br>
+[Asus Fan Control GUI]([https://github.com/nbfc-linux/nbfc-linux](https://github.com/Greifent/afc-gui) <br>
 [polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) <br>
 [Polybar-Spotify](https://github.com/PrayagS/polybar-spotify) <br>
 [ProtonUP-Qt](https://davidotek.github.io/protonup-qt/) <br>
